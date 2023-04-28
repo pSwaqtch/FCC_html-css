@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Survey Form</title>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="styles.css" />
+    </head>
+    <body>
+        <h1 id="title">Survey Form</h1>
+        <p id="description">This is a survey form.</p>
+        <form id="survey-form"> 
+            <fieldset>
+                <label id="name-label" for="name">Enter your name: <input id="name" type="text" required placeholder="Lorem Ipsum"/></label>
+                <label id="email-label" for="email">Enter your email address: <input id="email" type="email" required placeholder="lorem@ipsum.dolor"></label>
+                <label id="number-label" for="number">Enter your number: <input id="number" type="number" required min="1" max="10" placeholder="7"></label>
+            </fieldset>
+            <fieldset>
+                <label>Select an option: 
+                    <select id="dropdown">
+                        <option>
+                            1
+                        </option>
+                        <option>
+                            2
+                        </option>
+                        <option>
+                            3
+                        </option>
+                    </select>
+                </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <input type="radio" value="1" name="A">1
+                </label>
+               <label>
+                    <input type="radio" value="2" name="A">2
+               </label>
+            </fieldset>
+            <fieldset>
+                <label>
+                    <input type="checkbox" value="a" name="B">1
+                </label>
+               <label>
+                    <input type="checkbox" value="b" name="B">2
+               </label>
+            </fieldset>
+            <fieldset>Write here: 
+                <textarea></textarea>
+            </fieldset>
+            <fieldset>
+                <label>Submit<input type="submit" id="submit" /></label>
+            </fieldset>
+        </form>
+    </body>
+</html>
