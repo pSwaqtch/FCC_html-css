@@ -1,185 +1,185 @@
 ## Here's the consolidated list of CSS properties & concepts:
 
-1. CSS Selectors:
-	- Element Selector
-	- Class Selector
-	- ID Selector
-	- Attribute Selector
-	- Descendant Selector
-	- Child Selector
-	- Adjacent Sibling Selector
-	- General Sibling Selector
-	- Pseudo-classes
-	- Pseudo-elements
+### 1. CSS Selectors:
+	- `Element Selector`
+	- `Class Selector`
+	- `ID Selector`
+	- `Attribute Selector`
+	- `Descendant Selector`
+	- `Child Selector`
+	- `Adjacent Sibling Selector`
+	- `General Sibling Selector`
+	- `Pseudo-classes`
+	- `Pseudo-elements`
 
-2. Box Model:
-	- width
-	- height
-	- margin
-	- padding
-	- border
+#### 2. Box Model:
+	- `width`
+	- `height`
+	- `margin`
+	- `padding`
+	- `border`
 
 3. Positioning and Layout:
-	- position
-	- top
-	- right
-	- bottom
-	- left
-	- display
-	- float
-	- clear
-	- flexbox
-	- grid
+	- `position`
+	- `top`
+	- `right`
+	- `bottom`
+	- `left`
+	- `display`
+	- `float`
+	- `clear`
+	- `flexbox`
+	- `grid`
 
 4. Typography:
-	- font-family
-	- font-size
-	- font-weight
-	- font-style
-	- color
-	- text-align
-	- text-decoration
-	- text-transform
-	- line-height
-	- letter-spacing
+	- `font-family`
+	- `font-size`
+	- `font-weight`
+	- `font-style`
+	- `color`
+	- `text-align`
+	- `text-decoration`
+	- `text-transform`
+	- `line-height`
+	- `letter-spacing`
 
 5. Backgrounds and Borders:
-	- background-color
-	- background-image
-	- background-position
-	- background-repeat
-	- background-size
-	- border-color
-	- border-width
-	- border-style
-	- border-radius
+	- `background-color`
+	- `background-image`
+	- `background-position`
+	- `background-repeat`
+	- `background-size`
+	- `border-color`
+	- `border-width`
+	- `border-style`
+	- `border-radius`
 
 6. Colors and Gradients:
-	- color
-	- opacity
-	- rgba()
-	- hsl()
-	- linear-gradient()
-	- radial-gradient()
+	- `color`
+	- `opacity`
+	- `rgba()`
+	- `hsl()`
+	- `linear-gradient()`
+	- `radial-gradient()`
 
 7. Transforms and Transitions:
-	- transform
-	- translate()
-	- rotate()
-	- scale()
-	- skew()
-	- transition
-	- transition-property
-	- transition-duration
-	- transition-timing-function
-	- transition-delay
+	- `transform`
+	- `translate()`
+	- `rotate()`
+	- `scale()`
+	- `skew()`
+	- `transition`
+	- `transition-property`
+	- `transition-duration`
+	- `transition-timing-function`
+	- `transition-delay`
 
 8. Animations:
-	- @keyframes
-	- animation-name
-	- animation-duration
-	- animation-timing-function
-	- animation-delay
-	- animation-iteration-count
-	- animation-direction
+	- `@keyframes`
+	- `animation-name`
+	- `animation-duration`
+	- `animation-timing-function`
+	- `animation-delay`
+	- `animation-iteration-count`
+	- `animation-direction`
 
 9. Layout and Flexibility:
-	- display
-	- flex
-	- flex-direction
-	- justify-content
-	- align-items
-	- align-content
-	- flex-grow
-	- flex-shrink
-	- flex-basis
-	- order
+	- `display`
+	- `flex`
+	- `flex-direction`
+	- `justify-content`
+	- `align-items`
+	- `align-content`
+	- `flex-grow`
+	- `flex-shrink`
+	- `flex-basis`
+	- `order`
 
 10. Responsive Design:
-	- @media queries
-	- max-width
-	- min-width
-	- mobile-first approach
-	- responsive units (e.g., vw, vh, %)
+	- `@media queries`
+	- `max-width`
+	- `min-width`
+	- `mobile-first approach`
+	- `responsive units (e.g., vw, vh, %)`
 
-11. Pseudo- classes and Pseudo- elements:
-	- :hover
-	- :active
-	- :focus
-	- :visited
-	- :nth-child()
-	- :first-child
-	- :last-child
-	- ::before
-	- ::after
+11. Pseudo-classes and Pseudo-elements:
+	- `:hover`
+	- `:active`
+	- `:focus`
+	- `:visited`
+	- `:nth-child()`
+	- `:first-child`
+	- `:last-child`
+	- `::before`
+	- `::after`
 
 12. Flexbox:
-	- flex-wrap
-	- align-self
-	- justify-self
-	- flex-grow
-	- flex-shrink
-	- flex-basis
-	- align-content
+	- `flex-wrap`
+	- `align-self`
+	- `justify-self`
+	- `flex-grow`
+	- `flex-shrink`
+	- `flex-basis`
+	- `align-content`
 
 13. Grid Layout:
-	- grid-template-columns
-	- grid-template-rows
-	- grid-column-gap
-	- grid-row-gap
-	- grid-gap
-	- grid-template-areas
-	- grid-area
-	- justify-items
-	- align-items
-	- justify-content
-	- align-content
-	- grid-auto-columns
-	- grid-auto-rows
-	- grid-auto-flow
+	- `grid-template-columns`
+	- `grid-template-rows`
+	- `grid-column-gap`
+	- `grid-row-gap`
+	- `grid-gap`
+	- `grid-template-areas`
+	- `grid-area`
+	- `justify-items`
+	- `align-items`
+	- `justify-content`
+	- `align-content`
+	- `grid-auto-columns`
+	- `grid-auto-rows`
+	- `grid-auto-flow`
 
 14. Responsive Images:
-	- max-width
-	- object-fit
-	- object-position
+	- `max-width`
+	- `object-fit`
+	- `object-position`
 
 15. Text Effects:
-	- text-shadow
-	- word-spacing
-	- text-overflow
-	- white-space
-	- overflow-wrap
-	- hyphens
+	- `text-shadow`
+	- `word-spacing`
+	- `text-overflow`
+	- `white-space`
+	- `overflow-wrap`
+	- `hyphens`
 
 16. Positioning:
-	- z-index
-	- top
-	- right
-	- bottom
-	- left
+	- `z-index`
+	- `top`
+	- `right`
+	- `bottom`
+	- `left`
 
 17. Transparency:
-	- opacity
+	- `opacity`
 
 18. Lists:
-	- list-style-type
-	- list-style-image
-	- list-style-position
+	- `list-style-type`
+	- `list-style-image`
+	- `list-style-position`
 
 19. Filters:
-	- filter
-	- brightness
-	- contrast
-	- grayscale
-	- sepia
-	- blur
-	- hue-rotate
-	- invert
-	- saturate
-	- opacity
+	- `filter`
+	- `brightness`
+	- `contrast`
+	- `grayscale`
+	- `sepia`
+	- `blur`
+	- `hue-rotate`
+	- `invert`
+	- `saturate`
+	- `opacity`
 
 20. Variables:
-	- CSS custom properties (variables)
+	- `CSS custom properties (variables)`
 
 
 ## Here's the consolidated list of CSS properties & concepts along with short explanations:
