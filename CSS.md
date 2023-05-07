@@ -1,4 +1,4 @@
-# Here's the consolidated list of CSS properties & concepts:
+## Here's the consolidated list of CSS properties & concepts:
 
 1. CSS Selectors:
 	- Element Selector
@@ -182,7 +182,7 @@
 	- CSS custom properties (variables)
 
 
-# Here's the consolidated list of CSS properties & concepts along with short explanations:
+## Here's the consolidated list of CSS properties & concepts along with short explanations:
 
 1. CSS Selectors:
 	- Element Selector: Selects elements based on their tag name.

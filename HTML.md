@@ -1,4 +1,4 @@
-# Here's the consolidated list of HTML tags:
+## Here's the consolidated list of HTML tags:
 
 1. Document Structure:
 	- `<html>`, `<head>`, `<title>`, `<meta>`, `<link>`, `<body>`, `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<aside>`, `<footer>`, `<base>`, `<style>`, `<script>`, `<noscript>`
@@ -34,7 +34,7 @@
 	- Semantic HTML, Forms and Input Validation, Multimedia, Responsive Web Design, Accessibility, HTML5 APIs, Custom Data Attributes, Interactive Elements, Grouping Content, Mathematical Markup, Web Components, Responsive Images, Inline Frame, Dialogs, SVG (Scalable Vector Graphics)
 
 
-# Here's the consolidated list of HTML tags along with short explanations:
+## Here's the consolidated list of HTML tags along with short explanations:
 
 1. Document Structure:
 	- `<html>`: Represents the root element of an HTML document.
